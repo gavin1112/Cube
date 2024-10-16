@@ -1,0 +1,459 @@
+===== Test Start: 14/10/2024 3:13:59 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #4: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #5: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #6: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #7: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #8: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #9: A
+Player New Position: (-1.00, 1.84, 0.00)
+Move #10: A
+Player New Position: (-1.00, 1.84, 0.00)
+===== Test End: 14/10/2024 3:14:07 PM =====
+===== Test Start: 14/10/2024 3:17:18 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #4: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #5: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #6: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #7: A
+Player New Position: (-1.00, 1.84, 0.00)
+Move #8: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #9: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #10: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #11: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #12: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #13: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #14: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #15: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #16: D
+Player New Position: (1.00, 1.84, -1.00)
+Move #17: S
+Player New Position: (1.00, 1.84, -1.00)
+Move #18: W
+Player New Position: (1.00, 1.84, 0.00)
+Move #19: W
+Player New Position: (1.00, 1.84, 1.00)
+Move #20: S
+Player New Position: (1.00, 1.84, 0.00)
+===== Test End: 14/10/2024 3:17:34 PM =====
+===== Test Start: 14/10/2024 3:24:51 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #4: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #5: A
+Player New Position: (-1.00, 1.84, 0.00)
+Move #6: A
+Player New Position: (-1.00, 1.84, 0.00)
+Move #7: W
+Player New Position: (-1.00, 1.84, 1.00)
+Move #8: A
+Player New Position: (-1.00, 1.84, 1.00)
+Move #9: A
+Player New Position: (-1.00, 1.84, 1.00)
+Move #10: S
+Player New Position: (-1.00, 1.84, 0.00)
+Move #11: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #12: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #13: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #14: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #15: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #16: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #17: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #18: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #19: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #20: D
+Player New Position: (0.00, 1.84, -1.00)
+===== Test End: 14/10/2024 3:25:08 PM =====
+===== Test Start: 14/10/2024 3:26:32 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #3: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #4: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #5: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #6: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #7: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #8: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #9: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #10: W
+Player New Position: (0.00, 1.84, 0.00)
+Move #11: D
+Player New Position: (1.00, 1.84, 0.00)
+Move #12: S
+Player New Position: (1.00, 1.84, -1.00)
+Move #13: S
+Player New Position: (1.00, 1.84, -1.00)
+Move #14: S
+Player New Position: (1.00, 1.84, -1.00)
+Move #15: S
+Player New Position: (1.00, 1.84, -1.00)
+Move #16: W
+Player New Position: (1.00, 1.84, 0.00)
+Move #17: A
+Player New Position: (0.00, 1.84, 0.00)
+Move #18: W
+Player New Position: (0.00, 1.84, 1.00)
+Move #19: D
+Player New Position: (1.00, 1.84, 1.00)
+Reached target at: (1.00, 1.84, 1.00)
+===== Test End: 14/10/2024 3:26:47 PM =====
+===== Test Start: 14/10/2024 3:38:52 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #4: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #5: A
+Player New Position: (-1.00, 1.84, 0.00)
+Move #6: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #7: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #8: S
+Player New Position: (0.00, 1.84, -2.00)
+Move #9: W
+Player New Position: (0.00, 1.84, -1.00)
+Move #10: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #11: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #12: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #13: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #14: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #15: W
+Player New Position: (-1.00, 1.84, 1.00)
+Move #16: D
+Player New Position: (0.00, 1.84, 1.00)
+Move #17: D
+Player New Position: (1.00, 1.84, 1.00)
+Reached target at: (1.00, 1.84, 1.00)
+===== Test End: 14/10/2024 3:39:06 PM =====
+===== Test Start: 14/10/2024 3:41:24 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #4: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #5: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #6: W
+Player New Position: (-1.00, 1.84, 1.00)
+Move #7: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #8: W
+Player cannot move forward now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #9: D
+Player New Position: (0.00, 1.84, 1.00)
+Move #10: S
+Player New Position: (0.00, 1.84, 0.00)
+Move #11: A
+Player New Position: (-1.00, 1.84, 0.00)
+Move #12: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+Move #13: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #14: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #15: W
+Player New Position: (0.00, 1.84, 0.00)
+Move #16: W
+Player New Position: (0.00, 1.84, 1.00)
+Move #17: W
+Player cannot move forward now.
+Player New Position: (0.00, 1.84, 1.00)
+Move #18: W
+Player cannot move forward now.
+Player New Position: (0.00, 1.84, 1.00)
+Move #19: W
+Player cannot move forward now.
+Player New Position: (0.00, 1.84, 1.00)
+Move #20: A
+Player New Position: (-1.00, 1.84, 1.00)
+===== Test End: 14/10/2024 3:41:40 PM =====
+===== Test Start: 14/10/2024 3:43:20 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #2: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+Move #3: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+Move #4: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #5: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #6: D
+Player New Position: (1.00, 1.84, -1.00)
+Move #7: S
+Player cannot move backward now.
+Player New Position: (1.00, 1.84, -1.00)
+Move #8: A
+Player New Position: (0.00, 1.84, -1.00)
+Move #9: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #10: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #11: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #12: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #13: A
+Player New Position: (-1.00, 1.84, -1.00)
+Move #14: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #15: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #16: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #17: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #18: S
+Player New Position: (-1.00, 1.84, -1.00)
+Move #19: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #20: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+===== Test End: 14/10/2024 3:43:36 PM =====
+===== Test Start: 14/10/2024 3:44:14 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #2: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+Move #3: W
+Player New Position: (-1.00, 1.84, 1.00)
+Move #4: D
+Player New Position: (0.00, 1.84, 1.00)
+Move #5: S
+Player New Position: (0.00, 1.84, 0.00)
+Move #6: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #7: W
+Player New Position: (0.00, 1.84, 0.00)
+Move #8: W
+Player New Position: (0.00, 1.84, 1.00)
+Move #9: A
+Player New Position: (-1.00, 1.84, 1.00)
+Move #10: S
+Player New Position: (-1.00, 1.84, 0.00)
+Move #11: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #12: S
+Player New Position: (0.00, 1.84, -1.00)
+Move #13: S
+Player cannot move backward now.
+Player New Position: (0.00, 1.84, -1.00)
+Move #14: D
+Player New Position: (1.00, 1.84, -1.00)
+Move #15: W
+Player New Position: (1.00, 1.84, 0.00)
+Move #16: A
+Player New Position: (0.00, 1.84, 0.00)
+Move #17: D
+Player New Position: (1.00, 1.84, 0.00)
+Move #18: W
+Player New Position: (1.00, 1.84, 1.00)
+Reached target at: (1.00, 1.84, 1.00)
+===== Test End: 14/10/2024 3:44:29 PM =====
+===== Test Start: 14/10/2024 4:11:10 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: S
+Player cannot move backward now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: D
+===== Test End: 14/10/2024 4:11:12 PM =====
+===== Test Start: 14/10/2024 4:11:30 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: S
+Player cannot move backward now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #3: W
+Player New Position: (-1.00, 1.84, 1.00)
+Move #4: W
+Player cannot move forward now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #5: W
+Player cannot move forward now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #6: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #7: S
+Player New Position: (-1.00, 1.84, 0.00)
+Move #8: W
+Player New Position: (-1.00, 1.84, 1.00)
+Move #9: W
+Player cannot move forward now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #10: W
+Player cannot move forward now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #11: W
+Player cannot move forward now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #12: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #13: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 1.00)
+Move #14: D
+Player New Position: (0.00, 1.84, 1.00)
+Move #15: W
+Player cannot move forward now.
+===== Test End: 14/10/2024 4:11:42 PM =====
+Collision with Enemy at: (0.00, 1.84, -0.42)
+Collision with Enemy at: (0.00, 1.84, -0.34)
+Collision with Enemy at: (0.00, 1.84, -0.48)
+Collision with Enemy at: (0.00, 1.84, -0.29)
+Collision with Enemy at: (0.00, 1.84, -0.34)
+===== Test Start: 14/10/2024 4:48:01 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: D
+===== Test End: 14/10/2024 4:48:05 PM =====
+Player collided with enemy: Enemy at 14/10/2024 4:51:19 PM
+Player collided with enemy: Enemy at 14/10/2024 4:51:36 PM
+===== Test Start: 14/10/2024 4:51:49 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #2: W
+Player New Position: (0.00, 1.84, 0.00)
+Move #3: W
+===== Test End: 14/10/2024 4:51:51 PM =====
+===== Test Start: 14/10/2024 4:52:22 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: S
+Player cannot move backward now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #3: W
+===== Test End: 14/10/2024 4:52:24 PM =====
+===== Test Start: 14/10/2024 4:52:44 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: S
+Player cannot move backward now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #3: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+Move #4: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #5: D
+===== Test End: 14/10/2024 4:52:47 PM =====
+Player collided with enemy: Enemy at 14/10/2024 4:53:43 PM
+===== Test Start: 14/10/2024 4:56:51 PM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: S
+Player cannot move backward now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: W
+Player New Position: (-1.00, 1.84, 0.00)
+Move #3: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, 0.00)
+Move #4: D
+Player New Position: (0.00, 1.84, 0.00)
+Move #5: D
+===== Test End: 14/10/2024 4:56:55 PM =====
+===== Test Start: 15/10/2024 11:12:03 AM =====
+Initial Player Position: (-1.00, 1.84, -1.00)
+Move #1: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #2: A
+Player cannot move left now.
+Player New Position: (-1.00, 1.84, -1.00)
+Move #3: D
+Player New Position: (0.00, 1.84, -1.00)
+Move #4: A
+===== Test End: 15/10/2024 11:12:06 AM =====
